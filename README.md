@@ -35,17 +35,13 @@ The project is based on Windows Application Form along with Database. Many toolb
    * **Registration :** 
    Allows a user to register as Doctor
    
-   ![DoctorRegistration](https://user-images.githubusercontent.com/40003419/104268378-f6bbff80-54bd-11eb-815c-e906f515e51d.JPG)
-   
    * **Update :** 
    Allows a doctor to update profile.
-   
-   ![UpdateDoctor](https://user-images.githubusercontent.com/40003419/104269106-af367300-54bf-11eb-8572-36819d449726.JPG)
  
    * **Delete :** 
    Allows a doctor to delete profile.
-   
-   ![DeleteDoctor](https://user-images.githubusercontent.com/40003419/104269242-076d7500-54c0-11eb-8865-eb3cab20118a.JPG)
+
+  ![DoctorCRUD](https://user-images.githubusercontent.com/40003419/104270731-64b6f580-54c3-11eb-93a5-3449119aa7bc.jpg)
 
 
    **4) Treatment Catagory:**
