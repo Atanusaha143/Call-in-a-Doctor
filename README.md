@@ -63,10 +63,40 @@ The project is based on Windows Application Form along with Database. Many toolb
   
   ![All treatement](https://user-images.githubusercontent.com/40003419/104270999-f7f02b00-54c3-11eb-9ac8-e7abec2e6e93.jpg)
   
-  **6) Booking ICU:**
+  **6) Online Prescription:**
+  Doctor is able to send patient prescription and patient is able to see it.
+  
+  ![ViewSendPrescription](https://user-images.githubusercontent.com/40003419/104272188-cf1d6500-54c6-11eb-9ebc-1ab262b2c4c1.jpg)
+
+  
+  **7) Booking ICU:**
   A patient is able to book an ICU from listed hospitals.
   
   ![Booking ICU](https://user-images.githubusercontent.com/40003419/104271307-ccba0b80-54c4-11eb-8857-834f217d5263.JPG)
+  
+  **8) Search Doctor:**
+  Searching doctor to take an appointment by name and category.
+  
+  ![Search](https://user-images.githubusercontent.com/40003419/104271522-5073f800-54c5-11eb-8c72-ad91563baf79.JPG)
+  
+  **9) Appointment and Scheduling:**
+  Taking appointment based on doctor's schedule and details.
+  
+  ![DoctorDetails](https://user-images.githubusercontent.com/40003419/104271636-9204a300-54c5-11eb-8f97-3813aeddcb02.JPG)
+  
+  **10) Billing:**
+  Confirming appointment through Bkash payment.
+  
+  ![Payment](https://user-images.githubusercontent.com/40003419/104271716-bfe9e780-54c5-11eb-86b8-e82b304db758.JPG)
+  
+  
+  **11) Support:**
+  Supporting patient and doctor by taking their feedback.
+  
+  ![Support](https://user-images.githubusercontent.com/40003419/104271835-fc1d4800-54c5-11eb-9b4c-0b850e445a25.JPG)
+
+
+
 
 
 
