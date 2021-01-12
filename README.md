@@ -48,22 +48,17 @@ The project is based on Windows Application Form along with Database. Many toolb
    * **Online Consultancy:** 
    Allows a patient to make an appointment for online treatment.
    
-   ![OnlinePatient](https://user-images.githubusercontent.com/40003419/104269920-962ec180-54c1-11eb-81d1-9a6250905991.JPG)
-   
    * **In Person Consultancy:** 
    Allows a patient to make an appointment for in person treatment.
   
-  ![InPersonPatient](https://user-images.githubusercontent.com/40003419/104269971-aa72be80-54c1-11eb-91a8-f62fbce0a4e5.JPG)
-  
   * **Call in Consultancy:**
    Allows a patient to make an appointment by calling in.
-
-  ![CallinPatient](https://user-images.githubusercontent.com/40003419/104270007-b8284400-54c1-11eb-9967-0c17916b3a58.JPG)
   
   * **Free Consultancy:**
   Allows a patient to make an appointment for free.
   
-  ![FreePatient](https://user-images.githubusercontent.com/40003419/104270129-eefe5a00-54c1-11eb-9109-7a6996e3a6af.JPG)
+  ![All treatement](https://user-images.githubusercontent.com/40003419/104270999-f7f02b00-54c3-11eb-9ac8-e7abec2e6e93.jpg)
+
 
 
 
