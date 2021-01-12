@@ -62,6 +62,12 @@ The project is based on Windows Application Form along with Database. Many toolb
   Allows a patient to make an appointment for free.
   
   ![All treatement](https://user-images.githubusercontent.com/40003419/104270999-f7f02b00-54c3-11eb-9ac8-e7abec2e6e93.jpg)
+  
+  **6) Booking ICU:**
+  A patient is able to book an ICU from listed hospitals.
+  
+  ![Booking ICU](https://user-images.githubusercontent.com/40003419/104271307-ccba0b80-54c4-11eb-8857-834f217d5263.JPG)
+
 
 
 
