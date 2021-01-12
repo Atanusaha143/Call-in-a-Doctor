@@ -94,7 +94,23 @@ The project is based on Windows Application Form along with Database. Many toolb
   Supporting patient and doctor by taking their feedback.
   
   ![Support](https://user-images.githubusercontent.com/40003419/104271835-fc1d4800-54c5-11eb-9b4c-0b850e445a25.JPG)
+  
+  
+  
+  ## Built-in Credentials:
+  * **Patient:**\
+Username: patient\
+Password: patient
 
+  * **Doctor:**\
+  Username: doctor\
+Password: doctor
+
+  * **Admin:**\
+  Username: admin\
+Password: admin
+
+                  
 
 
 
