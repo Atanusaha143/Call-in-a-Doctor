@@ -42,9 +42,13 @@ The project is based on Windows Application Form along with Database. Many toolb
    Allows a doctor to delete profile.
 
   ![DoctorCRUD](https://user-images.githubusercontent.com/40003419/104270731-64b6f580-54c3-11eb-93a5-3449119aa7bc.jpg)
-
-
-   **4) Treatment Catagory:**
+  
+  **4) Admin Operations:**
+  Show, Update, Delete - Patient, Doctor and Admin's profile and others.
+  
+  ![AdminOperations](https://user-images.githubusercontent.com/40003419/104271174-6af9a180-54c4-11eb-96c7-9a82abcc6f66.jpg)
+  
+   **5) Treatment Catagory:**
    * **Online Consultancy:** 
    Allows a patient to make an appointment for online treatment.
    
